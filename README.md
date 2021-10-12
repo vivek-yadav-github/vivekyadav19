@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
 <h3 align="center">A passionate frontend developer from India pursing Masters in Computer Application from MIT,Manipal.
  <br>I am tech enthusiast who loves building Web Applications and currently focusing on Data Structures and Algorithms.<br></h3>
- <h3> About Me</h3><br>
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekyadav19&label=Profile%20views&color=0e75b6&style=flat" alt="vivekyadav19" /> </p>
-
+<h3> About Me</h3>
 
 - 🔭 I’m currently working on **Few Web Application Projects**
 

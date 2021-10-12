@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekyadav19&label=Profile%20views&color=0e75b6&style=flat" alt="vivekyadav19" /> </p>
 
-- 🔭 I’m currently working on **Building Web Application Project**
+- 🔭 I’m currently working on **Few Web Application Projects**
 
 - 🌱 I’m currently learning **Full Stack**
 
 - 🤝 I’m looking for help with **data structure and algorithms**
 
-- 👨‍💻 All of my projects are available at [vivekyadav19](vivekyadav19)
+- 👨‍💻 All of my projects are available at [here](https://github.com/vivekyadav19)
 
 - 💬 Ask me about **anything and everything!**
 

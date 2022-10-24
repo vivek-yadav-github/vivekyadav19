@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
-<h3 align="center">A passionate frontend developer from India pursing Masters in Computer Application from MIT,Manipal.
+<h3 align="center">A passionate frontend developer from India pursing Masters in Computer Application from Chandigarh University.
  <br>I am tech enthusiast who loves building Web Applications and currently focusing on Data Structures and Algorithms.<br></h3>
  
 
